@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.com/HibikineKage/utils.svg?branch=master)](https://travis-ci.com/HibikineKage/utils)
 [![codecov](https://codecov.io/gh/HibikineKage/utils/branch/master/graph/badge.svg)](https://codecov.io/gh/HibikineKage/utils)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![dependencies](https://david-dm.org/hibikinekage/@hibikine/utils.svg)](https://www.npmjs.com/package/@hibikine/utils)
+[![npm version](https://badge.fury.io/js/%40hibikine%2Futils.svg)](https://badge.fury.io/js/%40hibikine%2Futils)
 
 Utility functions.
 
