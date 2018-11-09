@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["src/index.ts"],"sourcesContent":["export const wait = (ms: number): Promise<void> =>\n  new Promise(resolve => setTimeout(resolve, ms));\n"],"names":["wait","ms","Promise","resolve","setTimeout"],"mappings":"AAAO,IAAMA,EAAO,SAACC,GACnB,OAAA,IAAIC,QAAQ,SAAAC,GAAW,OAAAC,WAAWD,EAASF"}
