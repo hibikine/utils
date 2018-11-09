@@ -1,6 +1,6 @@
 {
   "name": "@hibikine/utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript utility functions",
   "main": "index.js",
   "repository": "git@github.com:HibikineKage/utils.git",
@@ -10,7 +10,8 @@
     "build": "microbundle",
     "watch": "microbundle watch",
     "test": "jest",
-    "test-ci": "jest --coverage"
+    "test-ci": "jest --coverage",
+    "publish": "npm publish ./ --access=public"
   },
   "devDependencies": {
     "@types/jest": "^23.3.9",
