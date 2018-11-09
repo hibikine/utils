@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.com/HibikineKage/utils.svg?branch=master)](https://travis-ci.com/HibikineKage/utils)
 [![codecov](https://codecov.io/gh/HibikineKage/utils/branch/master/graph/badge.svg)](https://codecov.io/gh/HibikineKage/utils)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Utility functions.
 
